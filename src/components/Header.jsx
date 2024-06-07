@@ -63,7 +63,7 @@ export const Header = () => {
         <div className='max-w-[1200px] mx-auto flex justify-between'>
           <div className='flex w-[300px]'>
             <div className='w-[65px]'>
-                <img className='w-[65px]' src='/images/swiggy_logo.png' alt='Image Not Found'/>
+                <img className='w-[65px]' src='./images/swiggy_logo.png' alt='Image Not Found'/>
             </div>      
             <div className='flex bg-white justify-center items-center mx-7'>
                 <buton onClick={showSideMenu} className='flex bg-white'>
